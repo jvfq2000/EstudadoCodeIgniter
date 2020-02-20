@@ -7,13 +7,13 @@
   <div class="collapse navbar-collapse" id="navbarsExampleDefault">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a class="nav-link" href="<?php echo base_url(); ?>index.php/nova_chapa">Nova Chapa</a>
+        <a class="nav-link" href="<?php echo base_url(); ?>index.php/Nova_Chapa">Nova Chapa</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="<?php echo base_url(); ?>index.php/votar">Votar</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="<?php echo base_url(); ?>index.php/votar">Resultado</a>
+        <a class="nav-link" href="<?php echo base_url(); ?>index.php/Resultado">Resultado</a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
