@@ -1,0 +1,14 @@
+  1. Mova o cursor para esta linha.
+
+  2. Pressione  v  e mova o cursor para o quinto item abaixo. Note que o texto
+     é realçado.
+
+  3. Pressione o caractere  :  e note que aparecerá  :'<,'>  no lado inferior
+     da tela.
+
+  4. Digite  w TESTE , sendo TESTE um nome de arquivo que não existe ainda.
+     Certifique-se de ver  :'<,'>w TESTE  antes de pressionar <ENTER>.
+
+  5. O Vim salvará as linhas selecionadas no arquivo TESTE. Use  :!dir  ou
+     !:ls para vê-lo. Não o apague ainda! Nós o usaremos na próxima lição.
+

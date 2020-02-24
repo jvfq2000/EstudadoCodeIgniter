@@ -1,8 +1,8 @@
 <main role="main">
 </br></br>
     <div style="float: right">
-        <img src="<?php echo base_url(); ?>assets/img/logo_ifnmg.png" width="225" height="160" style="margin-bottom: 5px"/><br/>
-        <img src="<?php echo base_url(); ?>assets/img/logo_ifnmg_10_anos.png" width="225" height="160" style="margin-bottom: 5px"/><br/>
+        <img src="<?php echo base_url(); ?>assets/bootstrap/img/logo_ifnmg.png" width="225" height="160" style="margin-bottom: 5px"/><br/>
+        <img src="<?php echo base_url(); ?>assets/bootstrap/img/logo_ifnmg_10_anos.png" width="225" height="160" style="margin-bottom: 5px"/><br/>
     </div>
   <!-- Main jumbotron for a primary marketing message or call to action -->
   <div class="jumbotron">
